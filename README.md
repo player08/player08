@@ -1,0 +1,1 @@
+- 👋 I’m interested in ..I'd like  1 more option to be included in parameters of Stockfish: "forbiddance on double repetition of moves". Tell me plz, who and where could help me?
